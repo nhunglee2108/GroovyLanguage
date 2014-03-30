@@ -10,7 +10,7 @@ LinuxAndBasics
 このSubjectにはテーマが２つあります。  
 １つはこの環境の使い方を覚えてもらうということ。  
 ２つ目は、簡単なGroovy scriptを作ってもらうという事です。  
-Bitbucketを使っている方は、以下の説明の ”Github” と書いているところを、"Bitbucket"と読み替えてください。
+Bitbucketを使っている方は、以下の説明の ”Github” と書いているところを、"Bitbucket"と読み替えてください。  
 
 1. この環境を使うには、まず、github で repository を fork します。
 githubのweb page で、
